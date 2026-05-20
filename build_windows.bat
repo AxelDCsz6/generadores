@@ -17,7 +17,7 @@ pip install pyperclip pyinstaller --quiet
 
 echo.
 echo Compilando ejecutable...
-pyinstaller --onefile --console --name "GeneradorDeObra" generadores.py
+python -m PyInstaller --onefile --console --name "GeneradorDeObra" generadores.py
 
 echo.
 if exist "dist\GeneradorDeObra.exe" (
