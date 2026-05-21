@@ -1,5 +1,5 @@
 ('C:\\Users\\axeld\\basura\\generadores\\build\\Generadores de '
- 'obra\\Generadores de obra.pkg',
+ 'obra2\\Generadores de obra2.pkg',
  {'BINARY': True,
   'DATA': True,
   'EXECUTABLE': True,
@@ -12,27 +12,27 @@
  [('pyi-contents-directory _internal', '', 'OPTION'),
   ('PYZ-00.pyz',
    'C:\\Users\\axeld\\basura\\generadores\\build\\Generadores de '
-   'obra\\PYZ-00.pyz',
+   'obra2\\PYZ-00.pyz',
    'PYZ'),
   ('struct',
    'C:\\Users\\axeld\\basura\\generadores\\build\\Generadores de '
-   'obra\\localpycs\\struct.pyc',
+   'obra2\\localpycs\\struct.pyc',
    'PYMODULE'),
   ('pyimod01_archive',
    'C:\\Users\\axeld\\basura\\generadores\\build\\Generadores de '
-   'obra\\localpycs\\pyimod01_archive.pyc',
+   'obra2\\localpycs\\pyimod01_archive.pyc',
    'PYMODULE'),
   ('pyimod02_importers',
    'C:\\Users\\axeld\\basura\\generadores\\build\\Generadores de '
-   'obra\\localpycs\\pyimod02_importers.pyc',
+   'obra2\\localpycs\\pyimod02_importers.pyc',
    'PYMODULE'),
   ('pyimod03_ctypes',
    'C:\\Users\\axeld\\basura\\generadores\\build\\Generadores de '
-   'obra\\localpycs\\pyimod03_ctypes.pyc',
+   'obra2\\localpycs\\pyimod03_ctypes.pyc',
    'PYMODULE'),
   ('pyimod04_pywin32',
    'C:\\Users\\axeld\\basura\\generadores\\build\\Generadores de '
-   'obra\\localpycs\\pyimod04_pywin32.pyc',
+   'obra2\\localpycs\\pyimod04_pywin32.pyc',
    'PYMODULE'),
   ('pyiboot01_bootstrap',
    'C:\\Users\\axeld\\basura\\generadores\\.venv\\Lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
@@ -62,7 +62,7 @@
   ('libffi-8.dll', 'C:\\Python314\\DLLs\\libffi-8.dll', 'BINARY'),
   ('base_library.zip',
    'C:\\Users\\axeld\\basura\\generadores\\build\\Generadores de '
-   'obra\\base_library.zip',
+   'obra2\\base_library.zip',
    'DATA')],
  'python314.dll',
  False,

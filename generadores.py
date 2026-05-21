@@ -43,7 +43,7 @@ def guardar():
     projectName = input("Nombre del proyecto: ")
     hora = datetime.datetime.now()
     
-    nombreArchivo = f'{hora.strftime("%d-%m-%H:%M-%f")}.csv'
+    nombreArchivo = f'{hora.strftime("%d-%m-%H-%M-%f")}.csv'
     path = f'./{projectName}/{nombreArchivo}'
 
     try:
